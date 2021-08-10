@@ -1,0 +1,5 @@
+classes = 1
+train = train/test.txt
+valid = train/test.txt
+names = train/data/obj.names
+backup = train
